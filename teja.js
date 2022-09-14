@@ -1,2 +1,2 @@
 const hloo ="nmmmm"
-const teja = "mounika"
+const teja = ""
